@@ -1,0 +1,5 @@
+1- Las variables son tipos de datos cuyo valor puede cambiar dentro de el tiempo en que se ejecutan.
+2- Un string es una cadena de caracteres.
+3- Una función es una parte del código que realiza una tarea especifica.
+4- El if permite comprobar si se cumple una cierta condición, ejecutando como resultado un proceso distinto.
+5- Los valores booleanos solo pueden ser 2: True (verdadero) o False (falso)  
