@@ -1,0 +1,4 @@
+Un ciclo For es una estructura que permite repetir varios pasos un cierto número de veces.
+El operador AND ( && ) devuelve true si los dos operandos son true ; de lo contrario, devuelve false.
+El operador || OR devuelve verdadero si alguna expresión es verdadera, sino devuelve falso.
+El operdor logico ( ! ) es de negación.
