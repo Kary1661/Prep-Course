@@ -1,0 +1,1 @@
+Los arrays son variables especiales que pueden almacenar una colección o agrupación de valores de diferente naturaleza en su interior.
