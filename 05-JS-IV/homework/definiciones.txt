@@ -1,0 +1,6 @@
+Un objeto es un contenedor de propiedades, donde una propiedad tiene un nombre y un valor.
+Las propiedades de un objeto pueden verse como variables ligadas a un objeto.
+Una función que es la propiedad de un objeto es denominada su método.
+Un bucle for...in sirve para iterar sobre un objeto y seleccionar sus propiedades.
+"" cuando se exactamaente el nombre de la propiedad
+[] cuando es una propiedad de la que no conozco su nombre.
