@@ -1,0 +1,3 @@
+Cuando pedimos a un objeto una propiedad que no tiene, la busca en su prototipo. Así, un prototipo es otro objeto que se utiliza como una fuente de propiedades alternativa.
+Constructors (de Clases) metodo especial para crear e iniciar una clase determinada
+(el nombre de la función = clase)
